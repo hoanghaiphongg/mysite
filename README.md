@@ -1,1 +1,2 @@
 # mysite
+Start Django learn
